@@ -1,4 +1,3 @@
-*book 
- *Pen 
- *Pencil 
- *eraser 
+* book
+* Pencil
+* Eraser
